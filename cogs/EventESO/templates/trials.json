@@ -422,5 +422,38 @@
         "image": "https://elderscrollsonline.wiki.fextralife.com/file/Elder-Scrolls-Online/greymoor-dlc-eso-wiki-guide.jpg",
         "guides": "[Alcast Guide](https://alcasthq.com/eso-kynes-aegis-trial-guide/)\n[Fextralife Guide](https://elderscrollsonline.wiki.fextralife.com/Kyne's+Aegis)",
         "requirements": "CP160"
+    },
+
+    "nRG": {
+        "dps0": {
+            "name": "DPS",
+            "amount": 4
+        },
+        "dps1": {
+            "name": "Kite DPS",
+            "amount": 4
+        },
+        "healer0": {
+            "name": "Main Heal",
+            "amount": 1
+        },
+        "healer1": {
+            "name": "Kite Heal",
+            "amount": 1
+        },
+        "tank0": {
+            "name": "Main Tank",
+            "amount": 1
+        },
+        "tank1": {
+            "name": "Off-Tank",
+            "amount": 1
+        },
+        "title": "Normal Rockgrove",
+        "description": "Main tank is on the boss. Off tank is on the adds. Kite healer kite in Boss #1 and #2. Kite DPS kites in Boss #2.",
+        "url": "https://en.uesp.net/wiki/Online:Rockgrove",
+        "image": "https://elderscrollsonline.wiki.fextralife.com/file/Elder-Scrolls-Online/rockgrove_trials_eso_wiki_guide.jpg",
+        "guides": "[Alcast Guide](https://alcasthq.com/eso-rockgrove-trial-guide/)\n[Fextralife Guide](https://elderscrollsonline.wiki.fextralife.com/Rockgrove)",
+        "requirements": "CP160"
     }
 }
